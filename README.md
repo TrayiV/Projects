@@ -22,6 +22,7 @@ As a Data Scientist at FoodHub, your task is to perform data analysis to answer 
 - Visualizations to present insights effectively.
 - Recommendations based on findings to enhance customer experience.
 
+
 Project 2: Predicting Credit Card Churn for Thera Bank
 
 📌 Overview
