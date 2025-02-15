@@ -76,8 +76,8 @@ The goal of this project is to identify key factors influencing customer churn a
   
 📊 Technology & Libraries Used
 
-Data Manipulation: Pandas, NumPy
-Data Visualization: Matplotlib, Seaborn
-Machine Learning & Neural Networks: Scikit-learn, TensorFlow/Keras
-Class Imbalance Handling: SMOTE
-Hyperparameter Tuning: RandomizedSearchCV
+- Data Manipulation: Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn
+- Machine Learning & Neural Networks: Scikit-learn, TensorFlow/Keras
+- Class Imbalance Handling: SMOTE
+- Hyperparameter Tuning: RandomizedSearchCV
